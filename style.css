@@ -5,3 +5,8 @@ p {
 #presentation {
   background-color: #f2f2f2;
 }
+
+.special {
+  color: #0099cc;
+  font-style: italic;
+}
