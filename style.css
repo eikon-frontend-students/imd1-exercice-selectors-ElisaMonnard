@@ -10,3 +10,6 @@ p {
   color: #0099cc;
   font-style: italic;
 }
+#presentation em {
+  font-weight: bold;
+}
