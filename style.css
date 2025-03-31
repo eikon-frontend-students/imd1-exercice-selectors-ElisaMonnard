@@ -38,3 +38,12 @@ article p:nth-child(3) {
 aside li:last-child {
   color: red;
 }
+
+strong {
+  border-style: dashed;
+}
+
+li:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
